@@ -134,6 +134,7 @@ laptops[0]["types"][1]["storage"].remove('1 TB SSD')
 print(laptops[0])
 
 # BONUS TODO: Write a function called `get_price_range` that returns the minimum and maximum prices out of all the options.
-def get_price_range(min, max):
-    return min and max
+# def get_price_range(min, max):
+#    min = laptops[] 
+#     return min and max
 # ^ Expected outcome: (999, 2799)
